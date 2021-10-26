@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Thu Thủy à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'Như ưi!',
+    introDesc: ` Giận lâu sẽ nhanh già lắm đấy, Như biết điều này chưa nhỉ? Chưa biết à, vậy thì cười lên đi. Như giận Hải bao nhiêu thì Hải nhớ Như bấy nhiêu. Nhắn tin cho Hải nhé`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay không được thức khuya nhé công chúa Thủy.',
+    title: 'Phải chăng Như đã giận Hải rất nhiều 😙',
+    desc: 'Phải chăng Như sẽ không dỗi nữa ',
+    btnYes: 'Như hổng có dỗi <33',
+    btnNo: 'Không, Hải à :3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao Như dỗi mình Hải <3',
+    btnReply: 'Gửi cho Hải <3',
+    reply: 'thật ra Như hết dỗi Hải rồi <33333333',
+    mess: 'Hải biết mà 🥰. Yêu Như nhiều nhiều 😘😘',
+    messDesc: 'Tối nay mình nhắn tin cho nhau nha  .',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'http://https://www.facebook.com/Haicongtu.me' 
 }
