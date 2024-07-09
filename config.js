@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Thư à!',
+    introTitle: 'Vợ à!',
     introDesc: ` Trái đất vốn lạ thường
     mà sao bạn cứ đi nhầm đường 
     lạc vào tim mình lẻ loi
@@ -12,8 +12,8 @@ const CONFIG = {
     question:'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'yêu thì yêu không yêu thì yêu <33333333',
-    mess: 'mình biết mà 🥰. Yêu bạn Thư nhiều nhiều 😘😘',
-    messDesc: 'Tối nay mình nhắn tin cho nhau nha  .',
+    mess: 'Chồng biết mà 🥰. Yêu bạn Vợ nhiều nhiều 😘😘',
+    messDesc: 'chúng mình cưới nhau   .',
     btnAccept: 'dạ, yêu anh <3',
-    messLink: 'http://https://www.facebook.com/Haicongtu.me' 
+    messLink: ' 
 }
