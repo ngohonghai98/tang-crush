@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'Chồng biết mà 🥰. Yêu bạn Vợ nhiều nhiều 😘😘',
     messDesc: 'chúng mình cưới nhau   .',
     btnAccept: 'dạ, yêu anh <3',
-    messLink: ' 
+    messLink: ' HI
 }
